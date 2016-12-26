@@ -5,7 +5,7 @@
 ###应用场景:一个offer数据爆料和展示的内部交流平台###
 ###想法初衷:就是简单提供一个校招签约之前可以匿名的offer数据交流以及分享平台，不在依赖于网上的比如看准网，知乎查找之类的，纯靠校友，页面简单粗暴，直接打分，按照可信度来对比区分各个待遇，以便签约时候的谈薪水了解等，至于侵权方面，平台仅供内部交流，希望大家理解###
 ###使用框架：前端jquery mobile+后端django###
-###相应客户端下载链接：[http://www.offershow.online:8000/application/](http://www.offershow.online:8000/application/ "客户端下载链接")
+###相应客户端下载链接：[http://www.ioffershow.com:8000/application/](http://www.ioffershow.com:8000/application/ "客户端下载链接")
 ----------
 
 ###技术速成方案：###
